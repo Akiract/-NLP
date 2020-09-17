@@ -1,4 +1,4 @@
-# 记录学习NLP的过程
-# progress report
+# 学习NLP的PR
 
+Data set来源于kaggle的影评语义分析
 
