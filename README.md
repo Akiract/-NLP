@@ -1,4 +1,4 @@
 # 学习NLP的PR
 
-Data set来源于kaggle的影评语义分析
+Dataset来源于kaggle的IMDB影评分析:https://www.kaggle.com/c/word2vec-nlp-tutorial/data
 
